@@ -1,9 +1,9 @@
 Team Details:
 
-Name: Syed Muhammad Haider Ali Sherazi (Enrolment/Student No: 7219530)
-Name: Muhammad Tallal Bin Shahid (Enrolment/Student No: 7219428)
-Name: Tazeen Zahra Kazmi (Enrolment/Student No: 7219531)
-Name: Hamid Zaib (Enrolment/Student No: 7219189)
+Name: Syed Muhammad Haider Ali Sherazi (Enrolment/Student No: 7219530).
+Name: Muhammad Tallal Bin Shahid (Enrolment/Student No: 7219428).
+Name: Tazeen Zahra Kazmi (Enrolment/Student No: 7219531).
+Name: Hamid Zaib (Enrolment/Student No: 7219189).
 
 Environment:
 
