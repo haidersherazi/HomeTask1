@@ -12,3 +12,13 @@ I have created a project on Eclipse Version 4.29.0 and used Java version 17.0.8.
 Github Link:
 
 https://github.com/haidersherazi/HomeTask1
+
+Task Details:
+
+Create the class for exception handling and cover the topics:
+a. Handling Multiple Exceptions 
+b. Re-throwing Exceptions
+c. Resource Management:
+d. Chaining Exception
+
+We have provided the complete solution in this coding implementation.
