@@ -13,6 +13,10 @@ Github Link:
 
 https://github.com/haidersherazi/HomeTask1
 
+Youtube Video Link:
+
+https://www.youtube.com/watch?v=Tks_60FQIL0
+
 Task Details:
 
 Create the class for exception handling and cover the topics:
