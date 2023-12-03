@@ -1,23 +1,25 @@
-Team Details:
+# Home assignment 01
 
-Name: Syed Muhammad Haider Ali Sherazi (Enrolment/Student No: 7219530).
-Name: Muhammad Tallal Bin Shahid (Enrolment/Student No: 7219428).
-Name: Tazeen Zahra Kazmi (Enrolment/Student No: 7219531).
-Name: Hamid Zaib (Enrolment/Student No: 7219189).
+## Team Details (Team # 4):
 
-Environment:
+### Syed Muhammad Haider Ali Sherazi (Enrolment/Student No: 7219530)
+### Muhammad Tallal Bin Shahid (Enrolment/Student No: 7219428)
+### Tazeen Zahra Kazmi (Enrolment/Student No: 7219531)
+### Hamid Zaib (Enrolment/Student No: 7219189)
+
+## Environment:
 
 I have created a project on Eclipse Version 4.29.0 and used Java version 17.0.8.1 on Macbook pro.
 
-Github Link:
+## Github Link:
 
 https://github.com/haidersherazi/HomeTask1
 
-Youtube Video Link:
+## Youtube Video Link:
 
 https://www.youtube.com/watch?v=Tks_60FQIL0
 
-Task Details:
+## Task Details:
 
 Create the class for exception handling and cover the topics:
 a. Handling Multiple Exceptions 
